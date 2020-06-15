@@ -5,7 +5,3 @@ spring:
     username: root
   jpa:
     show-sql: true
-mail:
-  from:
-    username: 18268733945@139.com
-    password: ax123456
